@@ -8,7 +8,7 @@ The purpose of refactoring the code was to make the code run faster so that in t
 
 #### Stock Performance
 ![](/resources/stock_performance_2017.png)
-![](/resources/stock_performance_2017.png)
+![](/resources/stock_performance_2018.png)
 
 As is already shown on the Module 2 Challenge page, the stock performance in 2017 was significantly better than the performance of 2018. This is to be expected and refactoring the code had nothing to do witht he performance of the stocks themselves. It was primarily used as a measure to check whether or not the code was working as intended. 
 
